@@ -108,8 +108,7 @@ export const content: Record<Lang, Content> = {
     },
     projects: [
       { name: "This portfolio", desc: "Bilingual (PT/EN) personal portfolio built with Next.js and TypeScript.", stack: ["Next.js", "TypeScript", "CSS"] },
-      { name: "New project 1", desc: "Describe here, in a sentence or two, what this project does.", stack: ["Stack"] },
-      { name: "New project 2", desc: "Describe here, in a sentence or two, what this project does.", stack: ["Stack"] },
+      { name: "HoralyApp", desc: "Simplify your business management with automatic online booking for your clients and message reminders sent one day in advance. Everything you need to organize your schedule with ease.", stack: ["Next.js", "TypeScript", ".NET 8.0", "SQL Server", "Azure DevOps"] },
     ],
     contactLead: "Open to talk about roles and projects.",
     experience: [
